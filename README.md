@@ -8,5 +8,5 @@
 
 - [X] - @EnumSource;
 - [X] - @MethodSource;
-- [X] - @ValueSource;
+- [X] - @ValueSource
 - [X] - @CsvSource
