@@ -7,6 +7,6 @@
 ### Использованы аннотации:
 
 - [X] - @EnumSource;
-- [X] - @MethodSource;
+- [X] - @MethodSource
 - [X] - @ValueSource
 - [X] - @CsvSource
