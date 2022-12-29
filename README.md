@@ -6,7 +6,7 @@
 - Selenide
 ### Использованы аннотации:
 
-- [X] - @EnumSource;
+- [X] - @EnumSource
 - [X] - @MethodSource
 - [X] - @ValueSource
 - [X] - @CsvSource
